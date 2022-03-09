@@ -6,3 +6,6 @@ children = 3
 
 original_bill = 1532.02
 amount_due = 547.37
+
+bill_paid = false
+pets_paid = true
